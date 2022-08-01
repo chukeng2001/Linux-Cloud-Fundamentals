@@ -23,3 +23,6 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+I did my lab 1 week 1 assignment
+Had a few challenges but the good thing was anywhere i faced a challenge, the error message comes out with the right syntax to use and this helped me scale to the end of the assignment
