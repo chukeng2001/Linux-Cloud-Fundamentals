@@ -18,3 +18,5 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+Done with the second lab, with errors from the first lab, i am beginning to understand a bit how to use the resources given. no much challenges experienced
