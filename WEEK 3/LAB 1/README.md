@@ -230,3 +230,5 @@ gcloud compute instances stop web-instance-01
 [The gcloud cheat sheet](https://cloud.google.com/sdk/docs/cheatsheet "The gcloud cheat sheet")
 
 [The gcloud cheat sheet: Understanding commands](https://cloud.google.com/sdk/docs/cheatsheet#understanding_commands "The gcloud cheat sheet: Understanding commands")
+
+had a hard time creating the start-up script. telling me no such directory even after cloning down to my gcp
